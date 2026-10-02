@@ -2,8 +2,8 @@
 <table>
 <tr>
 <td width="62%" valign="top">
-3rd-year B.Tech student. I build backend systems in Java and Spring Boot, and I'm getting better at the design side of it: APIs, database schemas, and how separate services talk to each other.
-LinkedIn · Email · GitHub
+<p>3rd-year B.Tech student. I build backend systems in Java and Spring Boot, and I'm getting better at the design side of it: APIs, database schemas, and how separate services talk to each other.</p>
+<p><a href="https://www.linkedin.com/in/sharmaananyaa">LinkedIn</a> · <a href="mailto:ananyaaa171@gmail.com">Email</a> · <a href="https://github.com/Ananyaaa171">GitHub</a></p>
 </td>
 <td width="38%" valign="top">
 At a glance<br>
@@ -17,37 +17,38 @@ Building: MachinaX
 <table>
 <tr>
 <td>
-Currently building: MachinaX<br>
+Currently building: <a href="https://github.com/Ananyaaa171/MachinaX">MachinaX</a><br>
 Monitors an industrial motor, flags early signs of failure and explains why. Next on the list: live updates instead of polling, and real sensor data instead of simulated readings.
 </td>
 </tr>
 </table>
- 
-Projects
+<h3>Projects</h3>
 <table>
 <tr>
 <td width="33%" valign="top">
-MachinaX<br>
+<a href="https://github.com/Ananyaaa171/MachinaX">MachinaX</a><br>
 <sub>Team project</sub>
-Predictive maintenance for industrial motors. A Spring Boot API stores sensor readings in PostgreSQL, a Python service scores them for anomalies and likely faults, and a React dashboard shows the result.
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p>Predictive maintenance for industrial motors. A Spring Boot API stores sensor readings in PostgreSQL, a Python service scores them for anomalies and likely faults, and a React dashboard shows the result.</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </td>
 <td width="33%" valign="top">
-Dark Web Threat Actor Deanonymization<br>
+<a href="https://github.com/Ananyaaa171/DarkWeb_Threat_Actor_Deanonymization">Dark Web Threat Actor Deanonymization</a><br>
 <sub>Research prototype</sub>
-Compares writing style, identifiers and behaviour across anonymous personas and produces a confidence score along with the evidence behind it.
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+<p>Compares writing style, identifiers and behaviour across anonymous personas and produces a confidence score along with the evidence behind it.</p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API">
 </td>
 <td width="33%" valign="top">
-RetailMax-CRM<br>
+<a href="https://github.com/Ananyaaa171/RetailMax-CRM">RetailMax-CRM</a><br>
 <sub>Web app</sub>
-Customer-management app for a retail business, with a Java backend and a separate frontend.
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p>Customer-management app for a retail business, with a Java backend and a separate frontend.</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 </td>
 </tr>
 </table>
- 
-Stack
+<h3>Stack</h3>
 <table>
 <tr>
 <td width="25%" valign="top">
@@ -68,8 +69,7 @@ React<br>Git<br>Maven
 </td>
 </tr>
 </table>
- 
-Activity
+<h3>Activity</h3>
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
